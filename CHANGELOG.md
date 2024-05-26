@@ -1,3 +1,12 @@
+## [0.3.2](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.1...v0.3.2) (2024-05-26)
+
+
+### Bug Fixes
+
+* load config from srcDir, not rootDir ([225a333](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/commit/225a333dfeae3d9516818ad14b4ed4bd47d63ea4))
+
+
+
 ## [0.3.1](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.0...v0.3.1) (2024-05-26)
 
 
