@@ -1,4 +1,4 @@
-import { relative, resolve } from 'node:path'
+import { relative } from "node:path"
 import { existsSync } from "node:fs"
 import { addImports, addPlugin, addTemplate, addTypeTemplate, createResolver, defineNuxtModule, updateTemplates, useLogger } from "@nuxt/kit"
 import { defu } from "defu"

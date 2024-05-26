@@ -1,3 +1,13 @@
+## [0.3.1](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.0...v0.3.1) (2024-05-26)
+
+
+### Bug Fixes
+
+* adopt forward-compatible approach to `builder:watch` ([8bb6e00](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/commit/8bb6e00051d1ae20b196d00d2967fecc7fc34daf))
+* opt in to `import.meta.*` properties ([ec5364d](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/commit/ec5364d1061cbc18dbabf86a0fa1436d3c7b2244))
+
+
+
 # [0.3.0](https://github.com/Hebilicious/vue-query-nuxt/compare/v0.2.1...v0.3.0) (2023-12-19)
 
 
