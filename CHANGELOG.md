@@ -1,3 +1,7 @@
+## [0.3.3](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.2...v0.3.3) (2024-05-26)
+
+
+
 ## [0.3.2](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.1...v0.3.2) (2024-05-26)
 
 
