@@ -2,7 +2,7 @@
   "name": "basic-fixture",
   "private": true,
   "dependencies": {
-    "@hebilicious/vue-query-nuxt": "workspace:*",
+    "@namesmt/vue-query-nuxt": "workspace:*",
     "@tanstack/vue-query": "latest",
     "nuxt": "^3.8.2"
   }

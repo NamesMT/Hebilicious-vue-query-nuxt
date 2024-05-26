@@ -8,7 +8,7 @@
     "analyze": "nuxi analyze"
   },
   "dependencies": {
-    "@hebilicious/vue-query-nuxt": "workspace:*",
+    "@namesmt/vue-query-nuxt": "workspace:*",
     "@tanstack/vue-query": "^5.28.9",
     "nuxt": "^3.11.1"
   }

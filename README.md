@@ -5,10 +5,10 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[npm-version-src]: https://img.shields.io/npm/v/@hebilicious/vue-query-nuxt
-[npm-version-href]: https://npmjs.com/package/@hebilicious/vue-query-nuxt
-[npm-downloads-src]: https://img.shields.io/npm/dm/@hebilicious/vue-query-nuxt
-[npm-downloads-href]: https://npmjs.com/package/@hebilicious/vue-query-nuxt
+[npm-version-src]: https://img.shields.io/npm/v/@namesmt/vue-query-nuxt
+[npm-version-href]: https://npmjs.com/package/@namesmt/vue-query-nuxt
+[npm-downloads-src]: https://img.shields.io/npm/dm/@namesmt/vue-query-nuxt
+[npm-downloads-href]: https://npmjs.com/package/@namesmt/vue-query-nuxt
 
 🚀 Welcome to __Vue Query Nuxt__!  
 
@@ -38,7 +38,7 @@ In `nuxt.config.ts` :
 
 ```ts
 export default defineNuxtConfig({
-  modules: ["@hebilicious/vue-query-nuxt"]
+  modules: ["@namesmt/vue-query-nuxt"]
 })
 ```
 
@@ -94,7 +94,7 @@ In `nuxt.config.ts` :
 
 ```ts
 export default defineNuxtConfig({
-  modules: ["@hebilicious/vue-query-nuxt"],
+  modules: ["@namesmt/vue-query-nuxt"],
   vueQuery: {
     // useState key used by nuxt for the vue query state.
     stateKey: "vue-query-nuxt", // default

@@ -8,7 +8,7 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@hebilicious/vue-query-nuxt": "workspace:*",
+    "@namesmt/vue-query-nuxt": "workspace:*",
     "@tanstack/vue-query": "^5.28.9",
     "@wundergraph/vue-query": "^0.2.31"
   },
