@@ -56,7 +56,7 @@
   },
   "peerDependencies": {
     "@tanstack/vue-query": "^5.28.9",
-    "nuxt": "^3.11.1"
+    "nuxt": ">=3.11.1"
   },
   "dependencies": {
     "@nuxt/kit": "^3.11.1",
