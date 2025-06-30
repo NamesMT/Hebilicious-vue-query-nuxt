@@ -1,3 +1,12 @@
+## [0.3.7](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.6...v0.3.7) (2025-06-30)
+
+
+### Bug Fixes
+
+* windows fs compat ([358adb8](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/commit/358adb8b1965eef8a172c5eafe9edf3218b25d35))
+
+
+
 ## [0.3.6](https://github.com/NamesMT/Hebilicious-vue-query-nuxt/compare/v0.3.5...v0.3.6) (2025-06-09)
 
 
